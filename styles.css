@@ -1,12 +1,2 @@
 /* css styles */
 
-/* Cambiar el fondo de la barra de título a blanco y el texto a negro */
-.quarto-title-banner.page-columns.page-full {
-  background-color: #ffffff;  /* Cambiar el fondo a blanco */
-  color: #212529;  /* Cambiar el texto a negro */
-}
-
-/* Opcional: Ajustar el color de los enlaces dentro del título */
-.quarto-title-banner.page-columns.page-full a {
-  color: #212529;  /* Cambiar el color de los enlaces a negro */
-}
